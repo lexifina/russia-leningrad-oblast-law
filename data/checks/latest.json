@@ -1,0 +1,118 @@
+{
+ "generated": "2026-11-24T14:12:18Z",
+ "latest": {
+  "pravo-leningrad-oblast|russia/leningrad-oblast/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1788,
+    "current": 1770,
+    "gone": 0,
+    "held": 1770,
+    "newest_in_repo": "2026-10-23",
+    "pending": 18,
+    "repo": 1770,
+    "source_in_scope": 1788
+   },
+   "check_id": "ru-pravo-leningrad-oblast-20261124T140923Z",
+   "commits": {
+    "count": 2,
+    "from": "291089225f039395f7b611a540cd3debf819403d",
+    "to": "b28bf156b1f8fd62a636fc66c89905a3d95b5a20"
+   },
+   "corpus": "russia/leningrad-oblast/acts",
+   "error": null,
+   "finished": "2026-11-24T14:12:17Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region47: 1788 law-type documents listed (every page read); 1770 held here; 18 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "4700202611120001",
+     "4700202611120002",
+     "4700202611120003",
+     "4700202611120004",
+     "4700202611120005",
+     "4700202611120006",
+     "4700202611120007",
+     "4700202611120008",
+     "4700202611120009",
+     "4700202611120010",
+     "4700202611120011",
+     "4700202611120012",
+     "4700202611120013",
+     "4700202611120014",
+     "4700202611120015",
+     "4700202611120016",
+     "4700202611120017",
+     "4700202611120018"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 12,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "4700202611120001",
+     "4700202611120002",
+     "4700202611120003",
+     "4700202611120004",
+     "4700202611120005",
+     "4700202611120006",
+     "4700202611120007",
+     "4700202611120008",
+     "4700202611120009",
+     "4700202611120010",
+     "4700202611120011",
+     "4700202611120012",
+     "4700202611120013",
+     "4700202611120014",
+     "4700202611120015",
+     "4700202611120016",
+     "4700202611120017",
+     "4700202611120018"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1788 law-type documents in block region47; newest published 2026-11-12",
+   "source": "pravo-leningrad-oblast",
+   "started": "2026-11-24T14:09:23Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 393,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
