@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:00:39Z",
+ "generated": "2026-11-26T06:17:42Z",
  "latest": {
   "pravo-leningrad-oblast|russia/leningrad-oblast/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1788,
     "source_in_scope": 1788
    },
-   "check_id": "ru-pravo-leningrad-oblast-20261125T061256Z",
+   "check_id": "ru-pravo-leningrad-oblast-20261126T053941Z",
    "commits": null,
    "corpus": "russia/leningrad-oblast/acts",
    "error": null,
-   "finished": "2026-11-25T06:14:19Z",
+   "finished": "2026-11-26T05:40:36Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region47: 1788 law-type documents listed (every page read); 1788 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1788 law-type documents in block region47; newest published 2026-11-12",
    "source": "pravo-leningrad-oblast",
-   "started": "2026-11-25T06:12:56Z",
+   "started": "2026-11-26T05:39:41Z",
    "unexplained": 0,
    "update": {
     "parts": []
