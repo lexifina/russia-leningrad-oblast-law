@@ -1,6 +1,6 @@
 # Leningrad Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 20 versions, from 2026-02-12 (latest in force: 2026-11-12) · <http://publication.pravo.gov.ru/documents/block/region47>
+Законы 2026 · 21 versions, from 2026-02-12 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region47>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -40,6 +40,10 @@
 | Закон № 129-оз | [129-oz.md](129-oz.md) | 1 | 2026-11-12 |
 | Закон № 13-оз | [13-oz.md](13-oz.md) | 0 |  |
 | Закон № 130-оз | [130-oz.md](130-oz.md) | 1 | 2026-11-12 |
+| Закон № 131-оз | [131-oz.md](131-oz.md) | 1 | 2026-11-26 |
+| Закон № 132-оз | [132-oz.md](132-oz.md) | 1 | 2026-11-26 |
+| Закон № 133-оз | [133-oz.md](133-oz.md) | 1 | 2026-11-26 |
+| Закон № 134-оз | [134-oz.md](134-oz.md) | 1 | 2026-11-26 |
 | Закон № 14-оз | [14-oz.md](14-oz.md) | 0 |  |
 | Закон № 15-оз | [15-oz.md](15-oz.md) | 1 | 2026-02-27 |
 | Закон № 16-оз | [16-oz.md](16-oz.md) | 1 | 2026-02-27 |
