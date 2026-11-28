@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Leningrad Oblast only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:36 UTC, Leningrad Oblast: Official Internet Portal of Legal Information (region47): 12 addresses read; 4 added, 0 changed, 0 removed; changes found; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 05:43 UTC, Leningrad Oblast: Official Internet Portal of Legal Information (region47): 12 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Leningrad Oblast: Official Internet Portal of Legal Information (region47)](http://publication.pravo.gov.ru/documents/block/region47) | `zakony-<year>/` | daily | 2026-11-27 05:36 UTC | changes found | watched |
+| [Leningrad Oblast: Official Internet Portal of Legal Information (region47)](http://publication.pravo.gov.ru/documents/block/region47) | `zakony-<year>/` | daily | 2026-11-28 05:43 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:42](checks/2026-11.md#ru-pravo-leningrad-oblast-20261128t054253z) | pravo-leningrad-oblast | 12 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-27 05:34](checks/2026-11.md#ru-pravo-leningrad-oblast-20261127t053459z) | pravo-leningrad-oblast | 12 | 4 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/russia-leningrad-oblast-law/compare/c5298be88a40...007661dcce49) |
 | [2026-11-26 05:39](checks/2026-11.md#ru-pravo-leningrad-oblast-20261126t053941z) | pravo-leningrad-oblast | 12 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 06:12](checks/2026-11.md#ru-pravo-leningrad-oblast-20261125t061256z) | pravo-leningrad-oblast | 12 | 0 | 0 | 0 | 0 (0) | no change | — |

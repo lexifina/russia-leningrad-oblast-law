@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:10:01Z",
+ "generated": "2026-11-28T06:24:21Z",
  "latest": {
   "pravo-leningrad-oblast|russia/leningrad-oblast/acts": {
    "attempt": 1,
@@ -13,34 +13,25 @@
    },
    "census": {
     "checked": 1792,
-    "current": 1788,
+    "current": 1792,
     "gone": 0,
-    "held": 1788,
-    "newest_in_repo": "2026-11-12",
-    "pending": 4,
-    "repo": 1788,
+    "held": 1792,
+    "newest_in_repo": "2026-11-26",
+    "pending": 0,
+    "repo": 1792,
     "source_in_scope": 1792
    },
-   "check_id": "ru-pravo-leningrad-oblast-20261127T053459Z",
-   "commits": {
-    "count": 2,
-    "from": "c5298be88a40cb8c93ac346124c1133ba2d74384",
-    "to": "007661dcce490cec301fa5e24eec8beda1fef34a"
-   },
+   "check_id": "ru-pravo-leningrad-oblast-20261128T054253Z",
+   "commits": null,
    "corpus": "russia/leningrad-oblast/acts",
    "error": null,
-   "finished": "2026-11-27T05:36:06Z",
+   "finished": "2026-11-28T05:43:46Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region47: 1792 law-type documents listed (every page read); 1788 held here; 4 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region47: 1792 law-type documents listed (every page read); 1792 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "4700202611260001",
-     "4700202611260002",
-     "4700202611260003",
-     "4700202611260004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -48,31 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "4700202611260001",
-     "4700202611260002",
-     "4700202611260003",
-     "4700202611260004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1792 law-type documents in block region47; newest published 2026-11-26",
    "source": "pravo-leningrad-oblast",
-   "started": "2026-11-27T05:34:59Z",
+   "started": "2026-11-28T05:42:53Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261127-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
